@@ -12,7 +12,6 @@ Easy
 
 The SOC team discovered a suspiciously large log file after a recent breach.  
 Instead of normal logs, the file contains a huge block of encoded text.
-
 The goal is to analyze the file and uncover any hidden information inside it.
 
 ---
@@ -52,6 +51,10 @@ cat logs.txt | base64 -d > output.jpg
 ```
 
 This produced an image file.
+
+## Hidden image
+
+
 
 4. Hidden data analysis
 
