@@ -54,7 +54,7 @@ This produced an image file.
 
 ## Hidden image
 
-![description](flag-in-flame/output.jpg)
+![output](files/output.jpg)
 
 4. Hidden data analysis
 
