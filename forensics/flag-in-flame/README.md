@@ -25,6 +25,7 @@ First, I identified the file type using the `file` command:
 
 ```bash
 file logs.txt
+```
 
 Output:
 
@@ -36,7 +37,7 @@ This indicates a large single-line text file, likely encoded data.
 
 I inspected the file content using:
 
-cat logs.txt
+```cat logs.txt```
 
 The output showed a large encoded string. Based on its structure, it appeared to be Base64 encoded.
 
@@ -44,7 +45,7 @@ The output showed a large encoded string. Based on its structure, it appeared to
 
 I decoded the file using:
 
-cat logs.txt | base64 -d > output.jpg
+```cat logs.txt | base64 -d > output.jpg```
 
 This produced an image file.
 
@@ -52,19 +53,18 @@ This produced an image file.
 
 Opening the image revealed a black stripe containing hex-encoded data:
 
-7069636F4354467B666F72656E736963735F616E616C797369735F69735F616D617A696E675F62653836303237397D
+```7069636F4354467B666F72656E736963735F616E616C797369735F69735F616D617A696E675F62653836303237397D```
+
 5. Hex decoding
 
 Using CyberChef → From Hex, the decoded output revealed the flag.
 
-Flag
+### Flag
+---
 picoCTF{forensics_analysis_is_amazing_be860279}
-Key Learnings
-Large single-line text files often indicate Base64 encoding
-Multi-layer encoding is common in forensics challenges
-Files may hide data inside secondary artifacts like images
-CyberChef is useful for quick decoding operations
-Tools Used
+---
+
+### Tools Used
 file
 cat
 base64
