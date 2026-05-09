@@ -37,7 +37,9 @@ This indicates a large single-line text file, likely encoded data.
 
 I inspected the file content using:
 
-```cat logs.txt```
+```bash
+cat logs.txt
+```
 
 The output showed a large encoded string. Based on its structure, it appeared to be Base64 encoded.
 
@@ -45,7 +47,9 @@ The output showed a large encoded string. Based on its structure, it appeared to
 
 I decoded the file using:
 
-```cat logs.txt | base64 -d > output.jpg```
+```bash
+cat logs.txt | base64 -d > output.jpg
+```
 
 This produced an image file.
 
@@ -57,15 +61,17 @@ Opening the image revealed a black stripe containing hex-encoded data:
 
 5. Hex decoding
 
-Using CyberChef → From Hex, the decoded output revealed the flag.
+Using CyberChef > From Hex, the decoded output revealed the flag.
 
-### Flag
+# Flag
 ---
+
 picoCTF{forensics_analysis_is_amazing_be860279}
+
 ---
 
-### Tools Used
-file
-cat
-base64
-CyberChef
+# Tools Used
+1. file
+2. cat
+3. base64
+4. CyberChef
