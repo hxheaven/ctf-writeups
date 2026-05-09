@@ -63,7 +63,7 @@ Opening the image revealed a black stripe containing hex-encoded data:
 
 Using CyberChef > From Hex, the decoded output revealed the flag.
 
-# Flag
+## Flag
 ---
 
 picoCTF{forensics_analysis_is_amazing_be860279}
@@ -75,3 +75,5 @@ picoCTF{forensics_analysis_is_amazing_be860279}
 2. cat
 3. base64
 4. CyberChef
+
+---
