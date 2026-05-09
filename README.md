@@ -49,7 +49,7 @@ ctf-writeups/
 - Coming soon
 
 ### Forensics
-- Coming soon
+- picoCTF: Flag in Flame -> Base64 + Hex decoding challenge
 
 ### OSINT
 - Coming soon
