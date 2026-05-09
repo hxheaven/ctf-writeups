@@ -28,7 +28,9 @@ file logs.txt
 
 Output:
 
+```bash
 logs.txt: ASCII text, with very long lines (65536), with no line terminators
+```
 
 This indicates a large single-line text file, likely encoded data.
 
