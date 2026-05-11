@@ -25,11 +25,11 @@ Flag format: HackNow{+99899_777_77_77}
 
 ### 1. Metadata Analysis
 
-The investigation began with an analysis of the image's metadata (EXIF data). Using exif.tools, I examined the PNG file. The metadata revealed that the image was a screenshot captured using ```gnome-screenshot```` on August 21, 2025. No GPS coordinates or hidden steganographic tags were present, confirming that the solution relied entirely on external OSINT techniques.
+The investigation began with an analysis of the image's metadata (EXIF data). Using exif.tools, I examined the PNG file. The metadata revealed that the image was a screenshot captured using ```gnome-screenshot``` on August 21, 2025. No GPS coordinates or hidden steganographic tags were present, confirming that the solution relied entirely on external OSINT techniques.
 
 ### 2. Reverse Image Search
 
-I uploaded the original image to Google Lens/Search by Image. The search indexed a specific entry on ```outdoor.uz````, a catalog for outdoor advertising. This result provided the crucial breakthrough: the city was identified as Urgench, Uzbekistan.
+I uploaded the original image to Google Lens/Search by Image. The search indexed a specific entry on ```outdoor.uz```, a catalog for outdoor advertising. This result provided the crucial breakthrough: the city was identified as Urgench, Uzbekistan.
 
 ![1.jpg](files/1.jpg)
 
