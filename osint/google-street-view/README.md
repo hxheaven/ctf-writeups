@@ -15,7 +15,7 @@ The image provided was taken via Google Maps. It depicts one of the city's centr
 
 Your task is to identify the phone number written on top of that car.
 
-Flag format: HackNow{+99899_777_77_77}
+Flag format: HackNow {+99899_777_77_77}
 
 ![challenge.png](files/challenge.png)
 
@@ -60,7 +60,7 @@ By zooming in on the vehicle's exterior (which featured promotional decals), the
 ## Flag
 ---
 
-HackNow{+99899_707_707_75}
+HackNow {+99899_707_707_75}
 
 ---
 
