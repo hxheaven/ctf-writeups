@@ -41,8 +41,6 @@ I uploaded the original image to Google Lens/Search by Image. The search indexed
 
 With the city identified, I navigated to Google Maps and searched for ```Urgench Xalq Banki```. This led to the exact branch location on one of the city's main arterial roads.
 
-## [Image Zone]
-
 ![4.jpg](files/4.jpg)
 
 ### 4. Google Street View Exploration
