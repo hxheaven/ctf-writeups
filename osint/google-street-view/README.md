@@ -17,7 +17,7 @@ Your task is to identify the phone number written on top of that car.
 
 Flag format: HackNow{+99899_777_77_77}
 
-![challenge.jpg](files/challenge.jpg)
+![challenge.png](files/challenge.png)
 
 ---
 
