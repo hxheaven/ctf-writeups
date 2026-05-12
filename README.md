@@ -49,10 +49,9 @@ ctf-writeups/
 - Coming soon
 
 ### Forensics
-- picoCTF: Flag in Flame -> Base64 + Hex decoding challenge
-
+- picoCTF: Flag in Flame
 ### OSINT
-- Coming soon
+- HackNow: Google Street View
 
 ### Misc
 - Coming soon
