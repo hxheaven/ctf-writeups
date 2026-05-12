@@ -1,5 +1,5 @@
 
-# [HackNowUZ]: [Google Street View]
+# HackNowUZ: Google Street View
 
 ## Category
 OSINT
