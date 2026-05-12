@@ -1,4 +1,4 @@
-# [HackNow]: [Hollywood aktyori]
+# HackNow: Hollywood aktyori
 
 ## Category
 OSINT
