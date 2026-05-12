@@ -52,6 +52,7 @@ ctf-writeups/
 - picoCTF: Flag in Flame
 ### OSINT
 - HackNow: Google Street View
+- HackNow: Hollywood aktyori
 
 ### Misc
 - Coming soon
