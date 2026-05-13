@@ -1,66 +1,63 @@
-# CTF Writeups
+# 🛡️ Cybersecurity & CTF Writeups
 
-Collection of my Capture The Flag (CTF) challenge writeups, notes, and solutions focused on cybersecurity, reverse engineering, digital forensics, and offensive security.
+Collection of my Capture The Flag (CTF) challenge writeups, laboratory investigations, and digital forensics solutions focused on cyber defense.
 
 ---
 
-## Categories
+## 🏆 CTF Achievements & Experience
+*   **International CyberHack:** Reached **Top-30** overall among teams from 17 countries.
+*   **UzHackDay CTF:** Active participant with official certification.
+*   **Total Tournaments:** Successfully competed in 4 major regional and international CTF events.
 
-| Category | Description |
+---
+
+## 📂 Core Specializations & Skills
+
+
+| Category | Description & Applied Skills |
 |----------|-------------|
-| Crypto | Cryptography challenges |
-| Web | Web exploitation and web security |
-| Reverse | Reverse engineering binaries and applications |
-| Stego | Steganography and hidden data |
-| Forensics | Digital forensics and incident analysis |
-| OSINT | Open Source Intelligence |
-| Misc | Miscellaneous challenges |
+| **Forensics** | Digital forensics, log analysis, incident analysis (Windows/Linux) |
+| **OSINT** | Open Source Intelligence, tracking malicious domains and IoCs |
+| **Network & Web** | Web security, traffic analysis (PCAP), analyzing protocols (DNS, HTTP) |
+| **Reverse** | Reverse engineering binaries and malicious application logic |
+| **Crypto & Stego** | Cryptography analysis and uncovering hidden data |
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 ctf-writeups/
 │
-├── crypto/
-├── web/
-├── reverse/
-├── stego/
-├── forensics/
-├── osint/
-└── misc/
+├── forensics/    # System logs, memory dumps, and artifact analysis
+├── osint/        # Threat Intelligence and open-source investigations
+├── network/      # Traffic captures, Wireshark analyses, and DNS logs
+├── crypto/       # Decryption and cryptographic flaws
+├── web/          # Web application security analysis
+└── reverse/      # Malware analysis and binary decompilation
 ```
 
 ---
 
-## Writeups
+## 🕵️ Active Writeups
 
-### Crypto
-- Coming soon
+### 📁 Forensics & Incident Response
+*   [picoCTF: Flag in Flame](./forensics/) — *Artifact investigation and digital forensics analysis.*
 
-### Web
-- Coming soon
+### 🌐 OSINT & Threat Intelligence
+*   [HackNow: Google Street View](./osint/) — *Advanced geolocation and open-source investigation.*
+*   [HackNow: Hollywood aktyori](./osint/) — *Target tracking and intelligence gathering.*
 
-### Reverse
-- Coming soon
-
-### Stego
-- Coming soon
-
-### Forensics
-- picoCTF: Flag in Flame
-### OSINT
-- HackNow: Google Street View
-- HackNow: Hollywood aktyori
-
-### Misc
-- Coming soon
+### 🛠️ Cyber Defense Labs (Coming Soon)
+*   **Splunk SIEM Investigations:** Practical queries and incident response scenarios from my Cisco NetAcad & Splunk training path.
 
 ---
 
-## Disclaimer
-
-These writeups are created for educational purposes only. Unauthorized use of these techniques against systems you do not have permission to test is illegal.
+## 🛠️ Main Toolset
+`Splunk (SIEM)` • `Wireshark` • `CyberChef` • `Linux / Kali Linux` • `Command Line Tools`
 
 ---
+
+## ⚠️ Disclaimer
+
+These writeups are created for educational purposes only. Unauthorized use of these techniques against systems you do not have permission to test is illegal and unethical.
