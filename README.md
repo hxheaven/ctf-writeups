@@ -5,9 +5,11 @@ Collection of my Capture The Flag (CTF) challenge writeups, laboratory investiga
 ---
 
 ## 🏆 CTF Achievements & Experience
-*   **International CyberHack:** Reached **Top-30** overall among teams from 17 countries.
-*   **UzHackDay CTF:** Active participant with official certification.
-*   **Total Tournaments:** Successfully competed in 4 major regional and international CTF events.
+*   **International Cybersecurity CTF (at CAU):** Reached **Top-40** overall among competitive teams from 17 countries.
+*   **CyberHack CTF (at NUU):** Achieved a strong **Top-30** finish in the general leaderboard.
+*   **Cyber Guard Cup Hackathon (at Inha University):** Secured a **Top-20** placement.
+*   **UzHackDay CTF:** Active participant with verified completion.
+*   **Total Tournaments:** Successfully competed under time pressure in 4 major regional and international cybersecurity events.
 
 ---
 
